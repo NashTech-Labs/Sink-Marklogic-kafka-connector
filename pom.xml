@@ -7,9 +7,8 @@
     <version>2.0</version>
     <packaging>jar</packaging>
 
-    <name>kafka-connect-marklogic</name>
-    <url>http://sanjuthomas.com</url>
-    <description>A Kafka connector for copying data between MarkLogic and Kafka.</description>
+    <name>sink-marklogic-kafka-connecter</name>
+    <description>A Kafka connector for transfer data between MarkLogic and Kafka</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
